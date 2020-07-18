@@ -2,6 +2,7 @@
 
 This readme is under construction.
 
+![aa](http://codestats-widget.wegfan.cn/history-graph/WEGFan?history_days=30&timezone=08:00&max_languages=8)
 <!--
 **WEGFan/WEGFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

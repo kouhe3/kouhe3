@@ -2,7 +2,7 @@
 
 This readme is under construction.
 
-![aa](http://codestats-widget.wegfan.cn/history-graph/WEGFan?history_days=30&timezone=08:00&max_languages=9)
+![WEGFan's Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=350&timezone=08&history_days=30&max_languages=13&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","darkslateblue","firebrick","lightcoral","mediumvioletred","808080"])
 <!--
 **WEGFan/WEGFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

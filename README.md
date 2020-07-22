@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there, I'm WEGFan! 👋
 
 <a href="https://github.com/WEGFan">
   <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />

@@ -1,7 +1,7 @@
 ### Hi there, I'm WEGFan! 👋
 
 <a href="https://github.com/WEGFan">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true&count_private=true" alt="WEGFan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true&count_private=true&include_all_commits=true" alt="WEGFan's GitHub Stats" />
 </a>
 
 ### My latest projects

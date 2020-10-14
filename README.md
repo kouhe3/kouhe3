@@ -6,11 +6,11 @@
 
 ### My latest projects
 
+<a href="https://github.com/WEGFan/Celeste-Infinite-Backups">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Celeste-Infinite-Backups" alt="Celeste-Infinite-Backups" />
+</a>
 <a href="https://github.com/WEGFan/codestats-profile-readme">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
-</a>
-<a href="https://github.com/WEGFan/Qiangzhi-Auto-Fetch-Score">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Qiangzhi-Auto-Fetch-Score" alt="Qiangzhi-Auto-Fetch-Score" />
 </a>
 
 ### Recently I'm coding in...

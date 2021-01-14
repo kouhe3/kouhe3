@@ -1,16 +1,16 @@
 ### Hi there, I'm WEGFan! 👋
 
 <a href="https://github.com/WEGFan">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true&count_private=true&include_all_commits=true" alt="WEGFan's GitHub Stats" />
+  <img src="https://github-readme-stats.wegfan.vercel.app/api?username=WEGFan&show_icons=true&count_private=true&include_all_commits=true" alt="WEGFan's GitHub Stats" />
 </a>
 
 ### My latest projects
 
 <a href="https://github.com/WEGFan/Celeste-Infinite-Backups">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Celeste-Infinite-Backups" alt="Celeste-Infinite-Backups" />
+  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=WEGFan&repo=Celeste-Infinite-Backups" alt="Celeste-Infinite-Backups" />
 </a>
 <a href="https://github.com/WEGFan/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
 </a>
 
 ### Recently I'm coding in...

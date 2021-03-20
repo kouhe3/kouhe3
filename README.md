@@ -7,10 +7,10 @@
 ### My latest projects
 
 <a href="https://github.com/kouhe3/vuepress">
-  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=Celeste-Infinite-Backups" alt="Celeste-Infinite-Backups" />
+  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=vuepress" alt="vuepress" />
 </a>
 <a href="https://github.com/kouhe3/lexburner.rip">
-  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=lexburner.rip" alt="lexburner.rip" />
 </a>
 
 ### Recently I'm coding in...

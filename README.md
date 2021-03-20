@@ -12,5 +12,8 @@
 <a href="https://github.com/kouhe3/lexburner.rip">
   <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=lexburner.rip" alt="lexburner.rip" />
 </a>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 

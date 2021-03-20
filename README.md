@@ -6,10 +6,10 @@
 
 ### My latest projects
 
-<a href="https://github.com/WEGFan/Celeste-Infinite-Backups">
+<a href="https://github.com/kouhe3/vuepress">
   <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=Celeste-Infinite-Backups" alt="Celeste-Infinite-Backups" />
 </a>
-<a href="https://github.com/WEGFan/codestats-profile-readme">
+<a href="https://github.com/kouhe3/lexburner.rip">
   <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=codestats-profile-readme" alt="codestats-profile-readme" />
 </a>
 

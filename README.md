@@ -1,7 +1,7 @@
 ### Hi there, I'm kouhe3! 👋
 
 <a href="https://github.com/kouhe3">
-  <img src="https://github-readme-stats.vercel.app/api?username=kouhe3&show_icons=true&count_private=true&include_all_commits=true" alt="kouhe3's GitHub Stats" />
+  <img src="https://github-readme-stats.wegfan.vercel.app/api?username=kouhe3&show_icons=true&count_private=true&include_all_commits=true" alt="kouhe3's GitHub Stats" />
 </a>
 
 ### My latest projects

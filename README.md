@@ -6,11 +6,11 @@
 
 ### My latest projects
 
-<a href="https://github.com/kouhe3/vuepress">
-  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=vuepress" alt="vuepress" />
+<a href="https://github.com/kouhe3/GTD-Creator">
+  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=GTD-Creator" alt="GTD-Creator" />
 </a>
-<a href="https://github.com/kouhe3/lexburner.rip">
-  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=lexburner.rip" alt="lexburner.rip" />
+<a href="https://github.com/kouhe3/note">
+  <img align="middle" src="https://github-readme-stats.wegfan.vercel.app/api/pin/?username=kouhe3&repo=note" alt="note" />
 </a>
 <p align="center"> 
   Visitor count<br>

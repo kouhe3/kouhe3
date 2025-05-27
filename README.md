@@ -1,11 +1,12 @@
 ### Hi there, I'm kouhe3! 👋
 
-<a href="https://github.com/kouhe3">
-  <img src="https://github-readme-stats.wegfan.vercel.app/api?username=kouhe3&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="kouhe3's GitHub Stats" />
-</a>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kouhe3&theme=tokyonight&count_private=true&show_icons=true&custom_title=Stats%20of%20AllenDang&hide_border=true" width=450px alt="My GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouhe3&theme=tokyonight&count_private=true&show_icons=true&layout=compact&custom_title=Top%20Languages%20of%20AllenDang&hide_border=true" width=450px alt="Top Languages"/>
+</div>
 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kouhe3/count.svg" /><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkouhe3&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-</p>
+
 

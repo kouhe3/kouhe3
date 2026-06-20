@@ -15,7 +15,9 @@ I am a passionate software engineer graduating in 2026. I specialize in building
 - **Languages:** Rust, Python, Kotlin, C#
 - **Focus Areas:** Library (crate/package) design, performance optimization, backend infrastructure.
 
-### Stats
+---
+
+## 📊 Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouhe3&theme=moonlight" alt="Profile Details" width="100%" />
